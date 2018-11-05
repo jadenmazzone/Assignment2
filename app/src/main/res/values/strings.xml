@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="textView_One" />
+    <string name="textView_Two" />
+    <string name="textView_Three" />
+    <string name="textView_Four" />
+    <string name="textView_Five" />
+    <string name="textView_Six" />
+    <string name="textView_Eight" />
+    <string name="textView_Nine" />
+    <string name="textView_Ten" />
+    <string name="button_add_item">Add Item</string>
+    <string name="activity_second">Add Item</string>
+    <string name="textView_Seven" />
+    <string name="button_eggs">eggs</string>
+    <string name="button_milk">Milk</string>
+    <string name="button_cheese">Cheese</string>
+    <string name="button_bread">bread</string>
+    <string name="button_apples">apples</string>
+    <string name="button_rice">rice</string>
+    <string name="button_chicken">chicken</string>
+    <string name="button_juice">juice</string>
+    <string name="button_onion">onions</string>
+    <string name="button_banana">Bananas</string>
+    <string name="EditText_store">Enter a Store</string>
+    <string name="Button_store">Find Store</string>
+</resources>
